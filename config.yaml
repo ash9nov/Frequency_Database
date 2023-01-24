@@ -1,0 +1,11 @@
+HOME: /NGS_AMG/Variant_Frequency-DB
+DATABASE: /data/StOlav_internal_db/Variant_Frequency-DB/TAR-DB/GVCF-FOR-DATABASE/gVCFs_all
+REFERENCE: /data/DataHG37/broad/human_g1k_v37_decoy.fasta
+SCRIPTS: /SCRIPTS
+EXPORT: /NGS_AMG/Variant_Frequency-DB/EXPORT
+
+log_path: /NGS_AMG/Variant_Frequency-DB/LOG/
+
+GATK: /SCRIPTS/GenomeAnalysisTK.jar
+RESULTS: /Results
+
